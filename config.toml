@@ -1,4 +1,4 @@
-baseURL = "https://vvvsc.github.io/jbramirez/"
+baseURL = "./public"
 title   = "Juan Bartolomé Ramirez"
 languageCode = "en-us"
 #theme = "hello-friend-ng"
