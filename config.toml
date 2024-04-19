@@ -55,16 +55,16 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   #
-  description = "Nice theme for homepages and blogs"
+  description = "Juan Ramirez"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "JBR"
 
   # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+   backgroundImage = "./assets/images/background.png"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -150,10 +150,10 @@ disableHugoGeneratorInject = false
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  [params.portrait]
+  path     = "https://bafkreiaei27lljrzo2oszrgthy2xt645ekqtvnfqi43efowfkdvpjwp3bm.ipfs.nftstorage.link/"
+  alt      = "Portrait"
+  maxWidth = "50px"
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Commento
@@ -215,23 +215,23 @@ disableHugoGeneratorInject = false
   #
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/anchoramirez"
 
   [[params.social]]
     name = "email"
     url  = "mailto:ancho@anchoramirez.com"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
+#  [[params.social]]
+#    name = "github"
+#    url  = "https://github.com/"
+#
+#  [[params.social]]
+#    name = "linkedin"
+#    url  = "https://www.linkedin.com/"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "facebook"
+    url  = "https://www.facebook.com/"
 
 [languages]
   [languages.en]

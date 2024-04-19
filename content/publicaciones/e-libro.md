@@ -16,4 +16,4 @@ aliases:
 
 Origen: [http://usca.edu.py/wp-content/uploads/2022/03/paper_RAMIREZ.pdf/](http://usca.edu.py/wp-content/uploads/2022/03/paper_RAMIREZ.pdf)
 
-{{< embed-pdf url="https://porcuerda.se.eu.org/ancho/book.pdf" >}}
+{{< embed-pdf url="https://bafybeignqtpbm4gga3svncgvsucy7vvoronc5nhe53zzu3g6qjez6p7koa.ipfs.nftstorage.link/" >}}

@@ -222,36 +222,36 @@ Previous Next &nbsp; &nbsp; / [pdf] View the PDF file here. " />
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-cd1511d7">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-cd1511d7">
-        <div class="pdf-loading" id="pdf-loading-cd1511d7"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-8dec5b70">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-8dec5b70">
+        <div class="pdf-loading" id="pdf-loading-8dec5b70"></div>
     </div>
     <div id="overlayText">
-      <a href="https://porcuerda.se.eu.org/ancho/book.pdf" aria-label="Download" download>
+      <a href="https://bafybeignqtpbm4gga3svncgvsucy7vvoronc5nhe53zzu3g6qjez6p7koa.ipfs.nftstorage.link/" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-cd1511d7"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-8dec5b70"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-cd1511d7">
-    <button id="pdf-prev-cd1511d7">Previous</button>
-    <button id="pdf-next-cd1511d7">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-8dec5b70">
+    <button id="pdf-prev-8dec5b70">Previous</button>
+    <button id="pdf-next-8dec5b70">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-cd1511d7"></span> / <span class="pdf-pagecount" id="pdf-pagecount-cd1511d7"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-8dec5b70"></span> / <span class="pdf-pagecount" id="pdf-pagecount-8dec5b70"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-cd1511d7" href="https://porcuerda.se.eu.org/ancho/book.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-8dec5b70" href="https://bafybeignqtpbm4gga3svncgvsucy7vvoronc5nhe53zzu3g6qjez6p7koa.ipfs.nftstorage.link/">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-cd1511d7" href="https://porcuerda.se.eu.org/ancho/book.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-8dec5b70" href="https://bafybeignqtpbm4gga3svncgvsucy7vvoronc5nhe53zzu3g6qjez6p7koa.ipfs.nftstorage.link/">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = 'https:\/\/porcuerda.se.eu.org\/ancho\/book.pdf';
+    var url = 'https:\/\/bafybeignqtpbm4gga3svncgvsucy7vvoronc5nhe53zzu3g6qjez6p7koa.ipfs.nftstorage.link\/';
 
     var hidePaginator = "" === "true";
     var hideLoader = "" === "true";
@@ -270,10 +270,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-cd1511d7" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-cd1511d7'),
+        canvas = document.getElementById('pdf-canvas-8dec5b70'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-cd1511d7"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-cd1511d7');
+        paginator = document.getElementById("pdf-paginator-8dec5b70"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-8dec5b70');
 
 
     
@@ -311,7 +311,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-cd1511d7" href="
       });
 
       
-      document.getElementById('pdf-pagenum-cd1511d7').textContent = num;
+      document.getElementById('pdf-pagenum-8dec5b70').textContent = num;
     }
 
     
@@ -355,7 +355,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-cd1511d7" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-cd1511d7').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-8dec5b70').addEventListener('click', onPrevPage);
 
     
 
@@ -366,14 +366,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-cd1511d7" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-cd1511d7').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-8dec5b70').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-cd1511d7').textContent = numPages;
+      document.getElementById('pdf-pagecount-8dec5b70').textContent = numPages;
 
       
       if(pageNum > numPages) {
