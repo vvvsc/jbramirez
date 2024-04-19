@@ -1,4 +1,4 @@
-baseURL = "https://anchoramirez.info"
+baseURL = "/"
 title   = "Juan Bartolomé Ramirez"
 languageCode = "en-us"
 #theme = "hello-friend-ng"
