@@ -20,7 +20,7 @@ aliases:
 
 
 
-{{< img src="https://bafkreiaei27lljrzo2oszrgthy2xt645ekqtvnfqi43efowfkdvpjwp3bm.ipfs.nftstorage.link/" >}}
+{{< img <center> src="https://bafkreiaei27lljrzo2oszrgthy2xt645ekqtvnfqi43efowfkdvpjwp3bm.ipfs.nftstorage.link/" </center> }}
 
 
 
