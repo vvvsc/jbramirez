@@ -46,7 +46,7 @@ disableHugoGeneratorInject = false
 
 [params]
   [params.author]
-    name = "Jane Doe"
+    name = "Juan Ramírez"
 
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04"
 
   # Metadata mostly used in document's head
-  # 
+  #
   description = "Nice theme for homepages and blogs"
   keywords = ""
   images = [""]
@@ -75,11 +75,11 @@ disableHugoGeneratorInject = false
   disableReadOtherPosts = false
 
   # Enable theme toggle
-  # 
-  # This options enables the theme toggle for the theme. 
-  # Per default, this option is off. 
-  # The theme is respecting the prefers-color-scheme of the operating system. 
-  # With this option on, the page user is able to set the scheme he wants. 
+  #
+  # This options enables the theme toggle for the theme.
+  # Per default, this option is off.
+  # The theme is respecting the prefers-color-scheme of the operating system.
+  # With this option on, the page user is able to set the scheme he wants.
   enableThemeToggle = false
 
   # Sharing buttons
@@ -94,7 +94,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -110,8 +110,8 @@ disableHugoGeneratorInject = false
   # plausibleDataDomain = 'test.com'
   # plausibleScriptSource = 'https://plausible.io/js/script.js'
 
-  # Custom footer 
-  # If you want, you can easily override the default footer with your own content. 
+  # Custom footer
+  # If you want, you can easily override the default footer with your own content.
   #
   [params.footer]
     trademark = 2023
@@ -119,7 +119,7 @@ disableHugoGeneratorInject = false
     copyright = true
     author = true
 
-    topText = []
+    topText = ["Juan Ramírez"]
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
       "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
@@ -142,11 +142,11 @@ disableHugoGeneratorInject = false
     # logoCursorColor    = "#67a2c9"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
-    # Append the current url pathname to logoText 
+    # Append the current url pathname to logoText
     # logoCursorPathname = true
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
-  # Addon: Startpage portrait 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Addon: Startpage portrait
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Uncomment this if you want a portrait on your start page
   #
@@ -155,21 +155,21 @@ disableHugoGeneratorInject = false
   #   alt      = "Portrait"
   #   maxWidth = "50px"
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Commento
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
+  # Commento is more than just a comments widget you can embed —
+  # it’s a return to the roots of the internet.
+  # An internet without the tracking and invasions of privacy.
+  # An internet that is simple and lightweight.
+  # An internet that is focused on interesting discussions, not ads.
   # A better internet.
   # Uncomment this to enable Commento.
   #
   # [params.commento]
   #   url = ""
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Utteranc.es
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Utteranc.es is a lightweight comments widget built on GitHub issues.
@@ -184,7 +184,7 @@ disableHugoGeneratorInject = false
   #   label used for GitHub issues
   #
   #   label      = ""
-  # 
+  #
   #   Blog Post <-> Issue mapping. This parameter is optional. Possible values are:
   #      - pathname
   #      - url
@@ -206,10 +206,10 @@ disableHugoGeneratorInject = false
   #      - boxy-light
   #      - gruvbox-dark
   #
-  #   theme      = ""
-  # 
+  #   theme      = "boxy-light"
+  #
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Social icons
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
@@ -247,10 +247,10 @@ disableHugoGeneratorInject = false
     subtitle  = "Hello Friend NG Theme"
 
 [menu]
-#  [[menu.main]]
-#    identifier = "about"
-#    name       = "About"
-#    url        = "about/"
+  [[menu.main]]
+    identifier = "pubs"
+    name       = "Publicaciones"
+    url        = "publicaciones/"
   [[menu.main]]
     identifier = "docs"
     name       = "Documentos"

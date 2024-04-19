@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicaciones on Juan Bartolomé Ramirez</title>
+    <link>http://localhost:1313/publicaciones/</link>
+    <description>Recent content in Publicaciones on Juan Bartolomé Ramirez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calidad de representación.</title>
+      <link>http://localhost:1313/publicaciones/e-libro/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publicaciones/e-libro/</guid>
+      <description>Origen: http://usca.edu.py/wp-content/uploads/2022/03/paper_RAMIREZ.pdf/&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>Viceintendente Municipal. Consideraciones acerca de la creación del cargo.</title>
+      <link>http://localhost:1313/publicaciones/libro/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publicaciones/libro/</guid>
+      <description>Registro ISBN: https://isbn.bibliotecanacional.gov.py/catalogo.php?mode=detalle&amp;amp;nt=13972&#xA;https://archive.is/GAw9s&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>¿Que es democracia?</title>
+      <link>http://localhost:1313/publicaciones/que-es-democracia/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publicaciones/que-es-democracia/</guid>
+      <description>Origen: https://usca.edu.py/2022/02/14/que-es-democracia/&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>Listas abiertas y participación Ciudadana.</title>
+      <link>http://localhost:1313/publicaciones/listas-abiertas-participacion/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publicaciones/listas-abiertas-participacion/</guid>
+      <description>Origen: https://usca.edu.py/2022/02/14/listas-abiertas-y-participacion-ciudadana/&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+  </channel>
+</rss>

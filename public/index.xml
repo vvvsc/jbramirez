@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Bartolomé Ramirez</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Juan Bartolomé Ramirez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/documentos/cv/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentos/cv/</guid>
+      <description>Juan B. Ramírez [Curriculum Vitae Extendido y Referenciado] DATOS PERSONALES Descripción Datos Nombres : Juan Bartolomé Apellidos : Ramírez Brizuela Fecha de Nacimiento : 25 de mayo de 1965 Lugar de Nacimiento : Asunción Nacionalidad : Paraguaya Cédula de Identidad Policial Nº : 1.213.877 Estado Civil : Casado Esposa : Carmen Noemi Vera Hijos : Juan Bartolomé, Julio César y Jorge Guillermo Dirección : Nuestra Señora de la Asunción e/ Segunda Avenida Ciudad : Asunción Teléfono Particular : (0972) 102.</description>
+    </item>
+    <item>
+      <title>Calidad de representación.</title>
+      <link>http://localhost:1313/publicaciones/e-libro/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publicaciones/e-libro/</guid>
+      <description>Origen: http://usca.edu.py/wp-content/uploads/2022/03/paper_RAMIREZ.pdf/&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>Viceintendente Municipal. Consideraciones acerca de la creación del cargo.</title>
+      <link>http://localhost:1313/publicaciones/libro/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publicaciones/libro/</guid>
+      <description>Registro ISBN: https://isbn.bibliotecanacional.gov.py/catalogo.php?mode=detalle&amp;amp;nt=13972&#xA;https://archive.is/GAw9s&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>¿Que es democracia?</title>
+      <link>http://localhost:1313/publicaciones/que-es-democracia/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publicaciones/que-es-democracia/</guid>
+      <description>Origen: https://usca.edu.py/2022/02/14/que-es-democracia/&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>Listas abiertas y participación Ciudadana.</title>
+      <link>http://localhost:1313/publicaciones/listas-abiertas-participacion/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publicaciones/listas-abiertas-participacion/</guid>
+      <description>Origen: https://usca.edu.py/2022/02/14/listas-abiertas-y-participacion-ciudadana/&#xA;Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>Tesis Doctoral</title>
+      <link>http://localhost:1313/documentos/tesis-doctorado/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentos/tesis-doctorado/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>Tesis Maestría</title>
+      <link>http://localhost:1313/documentos/tesis-maestria/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentos/tesis-maestria/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>Trabajo Final de Especialización</title>
+      <link>http://localhost:1313/documentos/especializacion/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentos/especializacion/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>Acerca de</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
