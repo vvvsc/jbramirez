@@ -16,4 +16,4 @@ aliases:
 
 Origen: [https://usca.edu.py/2022/02/14/listas-abiertas-y-participacion-ciudadana/](https://usca.edu.py/2022/02/14/listas-abiertas-y-participacion-ciudadana/)
 
-{{< embed-pdf src="https://bafybeieyvl2hsll7qxzspse4wcihvrhzrnn4pxa3iw4t46wfyvjqovwjri.ipfs.nftstorage.link/" >}}
+{{< embed-pdf url="https://bafybeieyvl2hsll7qxzspse4wcihvrhzrnn4pxa3iw4t46wfyvjqovwjri.ipfs.nftstorage.link/" >}}

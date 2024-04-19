@@ -20,4 +20,4 @@ Registro ISBN: [https://isbn.bibliotecanacional.gov.py/catalogo.php?mode=detalle
 
 {{< img src="https://archive.is/GAw9s/d145119285170bc8706ec0f2403a889f7ced9d3c.jpg">}}
 
-{{< embed-pdf src="https://bafybeicev3cbl66uqt7chmetbyoqtsael2delqbahcff4nesogx4orccma.ipfs.nftstorage.link/" >}}
+{{< embed-pdf url="https://bafybeicev3cbl66uqt7chmetbyoqtsael2delqbahcff4nesogx4orccma.ipfs.nftstorage.link/" >}}

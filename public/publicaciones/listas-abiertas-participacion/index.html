@@ -222,36 +222,36 @@ Previous Next &nbsp; &nbsp; / [pdf] View the PDF file here. " />
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-d41d8cd9">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-d41d8cd9">
-        <div class="pdf-loading" id="pdf-loading-d41d8cd9"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-97847e92">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-97847e92">
+        <div class="pdf-loading" id="pdf-loading-97847e92"></div>
     </div>
     <div id="overlayText">
-      <a href="" aria-label="Download" download>
+      <a href="https://bafybeieyvl2hsll7qxzspse4wcihvrhzrnn4pxa3iw4t46wfyvjqovwjri.ipfs.nftstorage.link/" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-d41d8cd9"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-97847e92"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-d41d8cd9">
-    <button id="pdf-prev-d41d8cd9">Previous</button>
-    <button id="pdf-next-d41d8cd9">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-97847e92">
+    <button id="pdf-prev-97847e92">Previous</button>
+    <button id="pdf-next-97847e92">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-d41d8cd9"></span> / <span class="pdf-pagecount" id="pdf-pagecount-d41d8cd9"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-97847e92"></span> / <span class="pdf-pagecount" id="pdf-pagecount-97847e92"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-d41d8cd9" href="">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-97847e92" href="https://bafybeieyvl2hsll7qxzspse4wcihvrhzrnn4pxa3iw4t46wfyvjqovwjri.ipfs.nftstorage.link/">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-d41d8cd9" href="">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-97847e92" href="https://bafybeieyvl2hsll7qxzspse4wcihvrhzrnn4pxa3iw4t46wfyvjqovwjri.ipfs.nftstorage.link/">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = '';
+    var url = 'https:\/\/bafybeieyvl2hsll7qxzspse4wcihvrhzrnn4pxa3iw4t46wfyvjqovwjri.ipfs.nftstorage.link\/';
 
     var hidePaginator = "" === "true";
     var hideLoader = "" === "true";
@@ -270,10 +270,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-d41d8cd9" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-d41d8cd9'),
+        canvas = document.getElementById('pdf-canvas-97847e92'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-d41d8cd9"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-d41d8cd9');
+        paginator = document.getElementById("pdf-paginator-97847e92"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-97847e92');
 
 
     
@@ -311,7 +311,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-d41d8cd9" href="
       });
 
       
-      document.getElementById('pdf-pagenum-d41d8cd9').textContent = num;
+      document.getElementById('pdf-pagenum-97847e92').textContent = num;
     }
 
     
@@ -355,7 +355,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-d41d8cd9" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-d41d8cd9').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-97847e92').addEventListener('click', onPrevPage);
 
     
 
@@ -366,14 +366,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-d41d8cd9" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-d41d8cd9').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-97847e92').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-d41d8cd9').textContent = numPages;
+      document.getElementById('pdf-pagecount-97847e92').textContent = numPages;
 
       
       if(pageNum > numPages) {

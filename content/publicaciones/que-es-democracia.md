@@ -16,4 +16,4 @@ aliases:
 
 Origen: [https://usca.edu.py/2022/02/14/que-es-democracia/](https://usca.edu.py/2022/02/14/que-es-democracia/)
 
-{{< embed-pdf src="https://bafybeib4v3yj7b5sbg75ibiecv2wgulwskcxw7dnukmvfogtgv3gfrupuy.ipfs.nftstorage.link/" >}}
+{{< embed-pdf url="https://bafybeib4v3yj7b5sbg75ibiecv2wgulwskcxw7dnukmvfogtgv3gfrupuy.ipfs.nftstorage.link/" >}}
