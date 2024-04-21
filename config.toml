@@ -153,7 +153,7 @@ disableHugoGeneratorInject = false
   [params.portrait]
   path     = "https://bafkreiaei27lljrzo2oszrgthy2xt645ekqtvnfqi43efowfkdvpjwp3bm.ipfs.nftstorage.link/"
   alt      = "Portrait"
-  maxWidth = "50px"
+  maxWidth = "100px"
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Commento
@@ -237,14 +237,14 @@ disableHugoGeneratorInject = false
   [languages.en]
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.en.params]
-    subtitle  = "Hello Friend NG Theme"
-
-  [languages.fr]
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.fr.params]
-    subtitle  = "Hello Friend NG Theme"
+#  [languages.en.params]
+#    subtitle  = "Consejo"
+#
+#  [languages.fr]
+#    weight    = 2
+#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#  [languages.fr.params]
+#    subtitle  = "Hello Friend NG Theme"
 
 [menu]
   [[menu.main]]
